@@ -1,0 +1,24 @@
+Arun - Tech lead
+Project - ETL (Jan 2014 - June 2014)
+Team size: 1 PM, 1 TL, 2 developers, SMEs as requested
+Description - Transferring policy data from MySQL to Oracle based Oasis policy management system
+Durga's role - she was 1 of 2 developers who worked on the project. They created mapping documents, wrote programs (mostly in PL/SQL) to transfer data from MySQL to Oracle.
+Durga is a hard worker, willing to spend extra effort to make project successful. She completed all her duties on time.
+Arun's role - my role was very limited as a TL. Both developers were able to work independantly. It was 2 years ago, I dont remember too much about it.
+
+Ramesh - PM
+Project - ETL (Jan 2014 - June 2014)
+Team size: 1 PM, 1 TL, 2 developers, SMEs as requested
+Description - Replacing policy management system
+Ramesh's role - Maintaining project status, facilitating meetings with SME
+Project was a big success due to Durga and her team mate. I dont remember any negative things about the project, it was almost 2 years ago.
+
+Stellus - TA
+Projects - several projects (June 2014 - June 2016)
+Durga's role - she was part of QA/BA team.
+Durga is a hard worker. I remember her asking for lot of details about system changes so that she can create test cases for it. She was willing to work above and beyond her assigned responsibilities to make project successful. She was in project for more than 18 months, I think.
+
+Attach resume and ETL document in Arun's mail
+Attach resume in Ramesh's mail
+Attach resume in Stellus's mail
+
